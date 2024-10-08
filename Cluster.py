@@ -1,5 +1,5 @@
 import random
-
+#Abd
 from Document import *
 
 class Cluster :

@@ -1,6 +1,6 @@
 ## generate a simple dataset for clustering.
 import random
-
+#Abd
 pos_lexicon = ["joy", "love", "happy", "bright", "cheerful", "beautiful", "fantastic", "wonderful",
     "brilliant", "excellent", "amazing", "delightful", "splendid", "optimistic", "fabulous",
     "fantastic", "inspiring", "radiant", "uplifting", "peace", "harmony", "laughter",

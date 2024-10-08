@@ -27,7 +27,7 @@ def plt_recurrence(df):
     ages = recurr.groupby('Age').size()
     ages.plot(kind = "bar", xlabel= "ages", ylabel= "recurrences", title= "ages vs recurrence")
     plt.show()
-
+#Abd
 if __name__ == '__main__':
     data = create_data()
 
