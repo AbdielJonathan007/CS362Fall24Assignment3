@@ -65,9 +65,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-    # cluster 80% of the documents. (four folds)
-    #    use classify to classify the other 20%.
-    #    measure accuracy - how many of the documents were classified correctly?
-    # return the average accuracy
 
 
